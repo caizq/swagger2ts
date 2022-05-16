@@ -1,0 +1,26 @@
+{
+  "name": "swagger2ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caizq/swagger2ts.git"
+  },
+  "keywords": [
+    "swagger",
+    "typescript"
+  ],
+  "author": "caizq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caizq/swagger2ts/issues"
+  },
+  "homepage": "https://github.com/caizq/swagger2ts#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
